@@ -46,6 +46,4 @@ I'm a musician who learned to build software the same way I learned to play: by 
 
 Guitar, drums and vocals, with music released on streaming platforms. Former English teacher. Português, English, Español.
 
-📫 <!-- TODO: portfolio · www.linkedin.com/in/daniela-christina-andrade-e-silva-7527403ba
-
- · danielachristina.producao@gmail.com -->
+📫 www.linkedin.com/in/daniela-christina-andrade-e-silva-7527403ba · danielachristina.producao@gmail.com 
